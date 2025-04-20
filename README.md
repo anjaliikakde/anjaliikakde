@@ -9,4 +9,4 @@ Outside of building, I love sharing what I learn. Writing on **Medium** helps me
 [<img src="https://img.shields.io/badge/LinkedIn-profile-blue?logo=linkedin&style=for-the-badge" />](https://linkedin.com/in/anjali-kakde-009932238) <br>
 [<img src="https://img.shields.io/badge/Kaggle-profile-20BEFF?logo=kaggle&style=for-the-badge" />](https://www.kaggle.com/anjaliikakde)
 [<img src="https://img.shields.io/badge/Medium-blog-black?logo=medium&style=for-the-badge" />](https://medium.com/@anjalikakde48)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-ff69b4?style=for-the-badge&logoColor=white)](https://anjaliikakde.github.io/Portfolio)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-ff69b4?style=for-the-badge&logoColor=white)](https://anjaliikakde.github.io/MyPortfolio/)
